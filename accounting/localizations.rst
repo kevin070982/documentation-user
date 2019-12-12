@@ -14,3 +14,4 @@ Localizations
    localizations/colombia
    localizations/colombia_ES
    localizations/italy_IT
+   localizations/argentina
