@@ -172,7 +172,7 @@ internal control process.
 
 
 3.1 AFIP Information (better known as AFIP Point of Sale)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. image:: media/argentina10.png
    :align: center
