@@ -28,7 +28,7 @@ For this, go to Apps and search for Argentina. Then click Install for the first 
    :align: center
 
 1.1 Configure your company
---------------------------
+++++++++++++++++++++++++++
 
 Once that the modules are installed, the first step is to set up your
 company data.  Additional to the basic information, a key field to fill in the
@@ -40,7 +40,7 @@ the company:
 
 
 1.2 Chart of Account
---------------------
+++++++++++++++++++++
 
 In Accounting settings there are three available packages of Chart of accounts,
 which are related to the AFIP responsibility type of the Company, considering that if the
@@ -158,7 +158,7 @@ The document type on each transaction will be determined by:
 (ex. Type of fiscal regimen of the buyer and type of fiscal regimen of the vendor)
 
 3. Journals
-+++++++++++
+-----------
 In the Argentinean localization the Journal can have a different approach depending on its usage and internal type,
 to configure you journals go to Accounting -> Configuration -> Journals:
 
